@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m Daniel Lando
+🌍 Software Engineer | Open-Source Enthusiast | Problem Solver
 
-<!--
-**Daniel-Lando/Daniel-Lando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer building projects across HTML, TypeScript, Python, and C++. My GitHub showcases a mix of creative experiments and real-world tooling — from interactive web builds to AI-assisted bots and game engines.
 
-Here are some ideas to get you started:
+⭐️ I enjoy learning new technologies, contributing to open source, and turning ideas into code. Whether working with game logic, utilities, or algorithmic tools, I aim for clean, thoughtful engineering and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Highlights
+
+Developed full-stack and frontend projects like cars, figma-website, and chessai
+
+Built Python utilities including reddit bots and experimental tools
+
+Explored systems-level and image format work with a fork of libjxl
+
+Actively explore new frameworks, libraries, and programming patterns
+
+💡 I’m always open to collaboration, feedback, and new challenges — let’s build something awesome!
+
+📫 Connect with me:
+Follow me here on GitHub ✨
